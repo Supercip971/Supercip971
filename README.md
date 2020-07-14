@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I’m currently working on an kernel : wingOS ! 
-
+![samplePic](https://raw.githubusercontent.com/Supercip971/Supercip971/master/image.png)
 <!--
 **Supercip971/Supercip971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
