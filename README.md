@@ -6,8 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supercip971)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ I’m currently working on an kernel : wingOS ! 
-![samplePic](https://raw.githubusercontent.com/Supercip971/Supercip971/master/image.png)
+- ⚡ I’m currently working on an kernel : wingOS (rewriting it in x86_64)! 
 <!--
 **Supercip971/Supercip971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
