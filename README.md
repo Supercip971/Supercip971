@@ -3,6 +3,8 @@ I'm Supercyp, a c++/c french programmer. I'm 14 years old
 
 I'm currentry working on:
 - [the devse wiki](https://devse.wiki/): a french os developpment wiki
+- [brutal](https://github.com/brutal-org/brutal): a micro kernel 
+- [my blog](https://supercip971.github.io): my little blog
 - [WingOS](https://github.com/Supercip971/WingOS_x64) a 64bit kernel
 - [pico-emu](https://github.com/Supercip971/pico-emu) a raspberry pi pico emulator
 - [cpp-translate](https://github.com/Supercip971/Cpp-Translate) something.... (note: it is a joke)
