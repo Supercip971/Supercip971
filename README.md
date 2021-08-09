@@ -7,7 +7,6 @@ I'm currentry working on:
 - [my blog](https://supercip971.github.io): my little blog
 - [WingOS](https://github.com/Supercip971/WingOS_x64) a 64bit kernel
 - [pico-emu](https://github.com/Supercip971/pico-emu) a raspberry pi pico emulator
-- [cpp-translate](https://github.com/Supercip971/Cpp-Translate) something.... (note: it is a joke)
 
 Some stats:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSupercip971&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
