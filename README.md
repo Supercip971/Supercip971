@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Supercyp, a c++/c french programmer. I'm 14 years old 
+I'm Supercyp, a c++/c french programmer. I'm 15 years old 
 
 I'm currentry working on:
 - [the devse wiki](https://devse.wiki/): a french os developpment wiki
