@@ -1,13 +1,14 @@
 ### Hi there 👋
-I'm Supercyp, a c++/c french programmer. I'm 15 years old 
+I'm Supercyp, a c++/c french programmer. I'm 16 years old 
 
-I'm work mainly on [brutal](https://github.com/brutal-org/brutal), an operating system !
+I work mainly on [brutal](https://github.com/brutal-org/brutal), an operating system (written from scratch).
+
 I also work on other project: 
 - [the devse wiki](https://devse.wiki/): a french os developpment wiki
-- [supercyp blog](https://supercip971.github.io): my little blog
+- [cyp](https://www.cyp.sh): my website ! There is also a blog if you want.
 - [WingOS](https://github.com/Supercip971/WingOS_x64) a 64bit kernel
 - [pico-emu](https://github.com/Supercip971/pico-emu) a raspberry pi pico emulator
-- [ansi-c-raytracer](https://github.com/Supercip971/ansi-c-raytracer) a simple C raytracer 
+- [plume raytracer](https://github.com/Supercip971/plume-raytracer) a simple C raytracer 
 
 
 Some stats:
