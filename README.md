@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Supercyp, a c++/c french programmer. I'm 16 years old 
+I'm cyp, a c++/c french programmer. I'm 16 years old 
 
 I work mainly on [brutal](https://github.com/brutal-org/brutal), an operating system (written from scratch).
 
