@@ -5,7 +5,7 @@ I work mainly on [brutal](https://github.com/brutal-org/brutal), an operating sy
 
 I also work on other project: 
 - [the devse wiki](https://devse.wiki/): a french os developpment wiki
-- [cyp](https://www.cyp.sh): my website ! There is also a blog if you want.
+- [cyp.sh](https://cyp.sh/): my website ! There is also a [blog](https://cyp.sh/blog) if you want.
 - [WingOS](https://github.com/Supercip971/WingOS_x64) a 64bit kernel
 - [pico-emu](https://github.com/Supercip971/pico-emu) a raspberry pi pico emulator
 - [plume raytracer](https://github.com/Supercip971/plume-raytracer) a simple C raytracer 
