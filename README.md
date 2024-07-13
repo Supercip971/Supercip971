@@ -1,6 +1,6 @@
 <div align="center">
   
-<b>Hi there 👋</b>
+<h3>Hi there 👋</h3>
 
 </div>
 I'm Cyp, a C++/C French programmer. I'm 17 years old.
