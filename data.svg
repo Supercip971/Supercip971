@@ -1,0 +1,32 @@
+
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml"> 
+<div style="display: flex; flex-wrap: wrap; gap: 1em; flex-direction: row ">
+<div style="width:30%">
+<h3>Projects</h3>
+<ul>
+<li><a href="https://github.com/brutal-org/brutal"> brutal </a>: an operating system (written from scratch)</li>
+<li><a href="https://devse.wiki/">the devse wiki</a>: a french os development wiki</li>
+<li><a href="https://cyp.sh/">cyp.sh</a>: my website ! There is also a <a href="https://cyp.sh/blog">blog</a> if you want.</li>
+<li><a href="https://github.com/Supercip971/WingOS_x64">WingOS</a>: a 64bit kernel</li>
+<li><a href="https://github.com/Supercip971/plume-raytracer">Plume raytracer</a>: a simple C raytracer </li>
+<li><a href="https://github.com/Supercip971/rubis">Rubis</a>: a simple raytracer using the vulkan raytracing extension (with gltf support, pbr...)</li>
+<li><a href="https://github.com/Supercip971/pico-emu">Pico-emu</a>: a raspberry pi pico emulator</li>
+</ul>
+</div>
+<div>
+<h3> Random stats </h3>
+
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=supercip971&amp;show_icons=true&amp;hide_rank=true&amp;line_height=24&amp;card_width=100&amp;hide_border=true&amp;include_all_commits=true&amp;theme=radical"/>
+</div>
+<div>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSupercip971&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false"/>
+</div>
+
+</div>
+</div>
+</div>
+</foreignObject>
+</svg>
