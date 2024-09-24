@@ -3,7 +3,7 @@
 </div>
 
 
-I'm Cyp, a C++/C French programmer. I'm 17 years old.
+I'm Cyp, a C++/C French programmer. I'm 18 years old.
 
 Right now, I'm focused on my studies (I'm at the INSA Lyon engineering school) so I don't have time to work on my side-projects (sorry). 
 
