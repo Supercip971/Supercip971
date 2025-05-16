@@ -3,9 +3,9 @@
 </div>
 
 
-I'm Cyp, a C++/C French programmer. I'm 18 years old.
+I'm Cyp (Cyprien), a C++/C French programmer. I'm 18 years old.
 
-Right now, I'm focused on my studies (I'm at the INSA Lyon engineering school) so I don't have time to work on my side-projects (sorry). 
+Right now, I'm focused on my studies (I'm a second year student at the INSA Lyon engineering school) so I don't have time to work on my side-projects (sorry). 
 
 Here is a list of projects:
 - [brutal](https://github.com/brutal-org/brutal): an operating system (written from scratch)
