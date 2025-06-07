@@ -25,3 +25,12 @@ Some stats:
 If you want, you can contact me:
 - [through my website](https://cyp.sh/contact)
 - through discord: `@cyp.b`
+
+
+# Other people to check <3 ! 
+
+- [lylykin](https://github.com/lylykin) (my awesome girlfriend <3)
+- [clem](https://github.com/sleepy-monax) (someone so talented, I would not have built anything without her help)
+- [keyboard-slayer](https://github.com/keyboard-slayer) (still developping navy 8900)
+- [d0p1](https://github.com/d0p1s4m4) (je connais cette théorie)
+- And check the [devse webring](https://webring.devse.wiki/) ! (every member of DEVSE are so great, this is the best community I know and love)
